@@ -1,0 +1,1 @@
+### Napomena: Prije svakog zadataka potrebno je kreirati branch sa nazivom `feature/#1` na osnovu `develop` branch-a, gdje je `#1` broj GitHub issue-a koji vam je dodjeljen. Molimo da se pridržavate uputa!
